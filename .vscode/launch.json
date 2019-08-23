@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Library",
+            "request": "launch",
+            "mainClass": "Library"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Book",
+            "request": "launch",
+            "mainClass": "Book"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Marathon",
+            "request": "launch",
+            "mainClass": "Marathon"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - foocorporation",
+            "request": "launch",
+            "mainClass": "foocorporation"
+        }
+    ]
+}
